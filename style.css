@@ -1,0 +1,29 @@
+body{
+    background:rgb(148, 181, 241)
+}
+header{
+    text-align: center;
+    font:bolder 35pt Arial;
+    color: rgba(255, 255, 255, 0.808)
+}
+section{
+    background:white;
+    width: 600px;
+    margin:auto;
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    text-align:center;
+}
+input.btn{
+    background:rgb(112, 205, 221);
+    padding:4px;
+    border-radius: 4px;
+    border: transparent;
+    color:white;
+    margin-left: 10px;
+}
+select{
+    width: 200px;
+}
